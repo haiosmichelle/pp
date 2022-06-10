@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1654871247 source:c:\users\haios\onedrive\documente\proiect\main.cpp
+	<iostream>
+	<string.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"Catalog.h"
+	"Materie.h"
+	"lista.h"
+	"Menu.h"
+	<windows.h>
+	<conio.h>
+
+1654871247 c:\users\haios\onedrive\documente\proiect\catalog.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdio>
+	<cmath>
+	<algorithm>
+
+1654863122 c:\users\haios\onedrive\documente\proiect\materie.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdio>
+	<cmath>
+	<algorithm>
+
+1654872143 c:\users\haios\onedrive\documente\proiect\lista.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"Catalog.h"
+	"Materie.h"
+	<windows.h>
+	<conio.h>
+	"Menu.h"
+
+1654870447 c:\users\haios\onedrive\documente\proiect\menu.h
+	<iostream>
+	<string.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdio>
+	<cmath>
+	<algorithm>
+	"Catalog.h"
+	"Materie.h"
+	"lista.h"
+	<windows.h>
+	<conio.h>
+
